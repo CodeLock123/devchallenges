@@ -101,3 +101,8 @@ article {
   text-align: left;
   margin-top: 10px;
 }
+
+/* Responsive */
+
+@media only screen and(600px) {
+}
