@@ -104,5 +104,8 @@ article {
 
 /* Responsive */
 
-@media only screen and(600px) {
+@media (max-width: 800px) {
+  .header {
+    flex-direction: column;
+  }
 }
